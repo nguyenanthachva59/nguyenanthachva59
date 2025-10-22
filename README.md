@@ -4,7 +4,7 @@
 - 🌱 Currently learning: Web development (HTML/CSS/JavaScript) 
 - 🔧 Familiar with Git, GitHub, and basic project collaboration
 - 📫 Reach me at: thachneo59@gmail.com
-
+My portfolio: https://nguyenanthachva59.github.io/portfolio/
 
 
 
